@@ -58,7 +58,7 @@ If these folders do not exist, create them before running the notebook cells tha
 ## How to run
 
 1. Open the notebook:
-   - `Mid-term-assignment.ipynb`
+   - `UK_Economy_Sentiment_Study.ipynb`
 
 2. Run cells in order (top to bottom).
 
